@@ -1,0 +1,13 @@
+b. Which cell populations are significantly different in relative frequencies between responders and non-responders? \
+Please include statistics to support your conclusion.
+
+answer:
+I didn't figure out all the code that is require to generate a boxplot, but I can list the factors
+that are important to compare which cell population are different in relative frequencies:
+-mean frequencies for responders and non-responders
+-mean difference between responders and non-responders
+-p-values
+-significance flag(p < 0.05)
+if the populations has p-value that is less than 0.05, we will consider it significant different
+
+
